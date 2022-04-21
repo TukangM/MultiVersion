@@ -1,6 +1,3 @@
-# Discontinued
-This plugin is discontinued.
-Alternative:
+# Pocketmine API 4 test
 
-- https://github.com/NetherGamesMC/PocketMine-MP
-- https://github.com/VenityNetwork/PocketMine-MP
+i am not dev php
